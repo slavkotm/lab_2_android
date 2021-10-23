@@ -5,7 +5,6 @@
     <string name="FIO">Кот В.М.</string>
     <string name="special">студент</string>
     <string name="Form">Form</string>
-    <string name="orientation_horizontal">landscape view</string>
-    <string name="orientation_vertical">portrait view</string>
-    <string name="qeterqt">qeterqt</string>
+    <string name="orientation_horizontal">горизонтальный вид</string>
+    <string name="orientation_vertical">портретный вид</string>
 </resources>
