@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab_2</string>
+    <string name="group">9 group</string>
+    <string name="FIO">Kot V.M.</string>
+    <string name="special">student</string>
+    <string name="Form">Form</string>
+    <string name="orientation_horizontal">landscape view</string>
+    <string name="orientation_vertical">portrait view</string>
+</resources>

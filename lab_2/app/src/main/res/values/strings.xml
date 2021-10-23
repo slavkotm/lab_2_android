@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab_2</string>
+    <string name="group">9 группа</string>
+    <string name="FIO">Кот В.М.</string>
+    <string name="special">студент</string>
+    <string name="Form">Form</string>
+    <string name="orientation_horizontal">landscape view</string>
+    <string name="orientation_vertical">portrait view</string>
+    <string name="qeterqt">qeterqt</string>
+</resources>
